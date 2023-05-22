@@ -1,3 +1,6 @@
+
+demo and testing
+
 609  git clone https://github.com/darsan-antra/VA-SEP-2023-May.git
   610  ll
   611  cd VA-SEP-2023-May/
@@ -97,4 +100,3 @@ git branch
   712  git branch
   713  git checkout -b dev2
   714  git branch
-This line will create a conflict.
